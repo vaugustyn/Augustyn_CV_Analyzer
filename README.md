@@ -1,2 +1,2 @@
-# Augustyn_CV_Analyzer
+# CV_Analyzer
 A Python Script to analyze cyclic voltammetry data in the Augustyn group
